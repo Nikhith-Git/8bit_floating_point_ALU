@@ -1,8 +1,5 @@
 //=============================================================================
 // 8-bit Floating Point ALU (Arithmetic Logic Unit)
-//
-// G.Nikhith (AP23110020120)
-//
 // Description:
 // This module implements an ALU for a custom 8-bit floating-point format.
 // It supports addition, subtraction, multiplication, division,
